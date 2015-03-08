@@ -96,10 +96,30 @@ audio:not([controls]) {
 }
 */
 
-/*@font-face {
-  **font-family: 'arvo';
-  **src: font-url('arvo-regular.ttf');
-}*/
+@font-face {
+  font-family: 'arvo';
+  src: font-url('arvo-regular.ttf');
+}
+
+@font-face {
+  font-family: 'neuton';
+  src: font-url('neuton/Neuton-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'montserrat';
+  src: font-url('montserrat/Montserrat-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'lato';
+  src:font-url('lato/Lato-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'merriweather';
+  src:font-url('merriweather/Merriweather-Regular.ttf');
+}
 
 /**
  * 1. Set default font family to sans-serif.

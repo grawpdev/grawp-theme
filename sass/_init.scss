@@ -85,9 +85,13 @@ $arial:           Arial, Helvetica, "Nimbus Sans L", sans-serif;
 $courier:         "Courier New", "DejaVu Sans Mono", monospace, sans-serif;
 
 // Now create some variables for the font stacks we want to use on this site.
-$base-font-family: $verdana; // The font family set on the html element.
-$font-body:        $verdana;
+$base-font-family: merriweather;// The font family set on the html element.
+$font-body:        merriweather;
 $font-monospace:   $courier;
+$header-font:	   lato;
+//$base-font-family: $verdana; // The font family set on the html element.
+//$font-body:        $verdana;
+//$font-monospace:   $courier;
 
 
 //
@@ -103,6 +107,32 @@ $nav-height: 3em;
 // Tab styling.
 $tabs-container-bg: #fff;
 $tabs-border: #bbb;
+
+//Grawp defined color scheme
+$primary-color: 	#39A939;
+$primary-color-light-1: #5CC45C;
+$primary-color-light-2: #8CDC8C;
+$primary-color-dark-1:	#1F911F;
+$primary-color-dark-2:	#0A730A;
+
+$secondary-1:		#2B7E7E;
+$secondary-1-light-1:	#459393;
+$secondary-1-light-2:	#76B8B8;
+$secondary-1-dark-1:	#176C6C;
+$secondary-1-dark-2:	#085656;
+
+$secondary-2:		#D38647;
+$secondary-2-light-1:	#F5AE73;
+$secondary-2-light-2:	#FFCDA3;
+$secondary-2-dark-1:	#B56726;
+$secondary-2-dark-2:	#8F480D;
+
+$complement:		#D34747;
+$complement-light-1:	#F57373;
+$complement-light-2:	#FFA3A3;
+$complement-dark-1:	#B52626;
+$complement-dark-2:	#8F0D0D;
+
 
 
 // =============================================================================
