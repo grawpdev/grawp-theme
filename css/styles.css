@@ -1833,6 +1833,11 @@ body {
   box-shadow: 0px 0px 10px black ;
 }
 
+/* line 15, ../sass/components/_page.scss */
+#site-name {
+  font-size: 75px;
+}
+
 /* SMACSS theme rules */
 /* @import "theme-A"; */
 /* @import "theme-B"; */
